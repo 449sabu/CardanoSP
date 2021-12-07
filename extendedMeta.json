@@ -1,1 +1,20 @@
-
+{
+    "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+    "info": {
+        "url_png_icon_64x64": "https://raw.githubusercontent.com/449sabu/CardanoSP/main/CIEL%20Stake%20Pool.png",
+        "location": "Tokyo, Japan",
+        "social": {
+            "twitter_handle": "CIEL_Stake_Pool",
+            "telegram_handle": "Yoshiki 【CIEL Stake Pool】",
+            "youtube_handle": "Yoshiki 【CIEL Stake Pool】",
+            "discord_handle": "Yoshiki [CIEL]#8135"
+        },
+        "about": {
+            "me": "...",
+            "server": "2x  4 vCPU 16GB of RAM and a 320GB SSD"
+        }
+    },
+    "my-pool-ids": {
+        "0": "88021ea76e8b0141feb976cccf0887a9a2385cc58370283c40abf06e"
+    }
+}
