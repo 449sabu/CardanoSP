@@ -1,6 +1,7 @@
 {
-"name": "le Ciel Stake Pool",
-"description": "le Ciel Stake Poolは、サステナブルな未来を目指す現役農家が運営しております。委任者様が安心して継続的にご利用いただけるよう努めていきます、よろしくお願いいたします。",
+"name": "CIEL Stake Pool",
+"description": "CIEL Stake Poolは、サステナブルな未来を目指す現役農家が運営しております。委任者様が安心して継続的にご利用いただけるよう努めていきます、よろしくお願いいたします。",
 "ticker": "CIEL",
-"homepage": "https://twitter.com/oy449"
+"homepage": "https://twitter.com/CIEL_Stake_Pool",
+"extended": "https://raw.githubusercontent.com/449sabu/CardanoSP/main/extendedMeta.json"
 }
