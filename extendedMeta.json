@@ -11,7 +11,8 @@
         },
         "about": {
             "me": "...",
-            "server": "2x  4 vCPU 16GB of RAM and a 320GB SSD"
+            "server": "2x  4 vCPU 16GB of RAM and a 320GB SSD",
+            "verification string": "deddbf0da40b4c8eea"
         }
     },
     "my-pool-ids": {
