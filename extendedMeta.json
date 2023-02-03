@@ -1,34 +1,34 @@
 {
-    "verification": "0eb696acc9d4df2b1b2",
-    "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/cexplorer.io/main/examples/meta.json",
-    "info": {
-      "url_png_icon_64x64": "https://raw.githubusercontent.com/449sabu/CardanoSP/main/c.png",
-      "url_png_logo": "",
-      "location": "Tokyo, Japan",
-      "social": {
-        "twitter_handle": "CIEL_Stake_Pool",
-        "telegram_handle": "",
-        "facebook_handle": "",
-        "youtube_handle": "channel/UCogyT3gaLf5v3tXxJ1y1ZNw",
-        "twitch_handle": "",
-        "discord_handle": "",
-        "github_handle": "449sabu",
-        "patreon_handle": "",
-        "linkedin_handle": "",
-        "ada_handle": ""
-      },
-      "company": {
-        "name": "",
-        "addr": "",
-        "city": "",
-        "country": "",
-        "company_id": "",
-        "vat_id": ""
-      },
-      "about": {
-        "me": "",
-        "server": "2x  4vCPU 16GB of RAM and a 500GB SSD",
-        "company": ""
-      }
-    }
-  }
+	"verification": "0eb696acc9d4df2b1b2",
+	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/cexplorer.io/main/examples/meta.json",
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/449sabu/CardanoSP/main/c.png",
+		"url_png_logo": "",
+		"location": "Tokyo, Japan",
+		"social": {
+			"twitter_handle": "CIEL_Stake_Pool",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "channel/UCogyT3gaLf5v3tXxJ1y1ZNw",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": "449sabu",
+			"patreon_handle": "",
+			"linkedin_handle": "",
+			"ada_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "",
+			"server": "2x  4vCPU 16GB of RAM and a 500GB SSD",
+			"company": ""
+		}
+	}
+}
