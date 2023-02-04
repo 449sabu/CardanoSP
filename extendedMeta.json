@@ -1,5 +1,4 @@
 {
-	"verification": "0eb696acc9d4df2b1b2",
 	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/cexplorer.io/main/examples/meta.json",
 	"info": {
 		"url_png_icon_64x64": "https://raw.githubusercontent.com/449sabu/CardanoSP/main/c.png",
