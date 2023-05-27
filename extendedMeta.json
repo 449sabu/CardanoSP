@@ -2,7 +2,7 @@
 	"verification": "bff006e656e4",
 	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/cexplorer.io/main/examples/meta.json",
 	"info": {
-		"url_png_icon_64x64": "https://raw.githubusercontent.com/449sabu/CardanoSP/main/c.png",
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/449sabu/CardanoSP/main/ciel-logo.png",
 		"url_png_logo": "",
 		"location": "Tokyo, Japan",
 		"social": {
