@@ -1,7 +1,8 @@
 {
-"name": "CIEL Stake Pool",
-"description": "CIEL Stake Poolは、サステナブルな未来を目指す現役農家が運営しております。委任者様が安心して継続的にご利用いただけるよう努めていきます、よろしくお願いいたします。",
-"ticker": "CIEL",
-"homepage": "https://cielstakepool.com",
-"extended": "https://raw.githubusercontent.com/449sabu/CardanoSP/main/extendedMeta.json"
+    "name": "CIEL Stake Pool",
+    "description": "持続可能をテーマに日本の現役農家が運営中。低手数料と高品質な運営で長期的なStaking Lifeをサポートします。詳細はホームページをご確認ください。",
+    "ticker": "CIEL",
+    "homepage": "https://cielstakepool.com",
+    "extended": "https://raw.githubusercontent.com/449sabu/CardanoSP/main/extendedMeta.json",
+    "nonce":"1721275871"
 }
